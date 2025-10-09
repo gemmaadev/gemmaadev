@@ -1,16 +1,15 @@
-## Hi there 👋
+# Gemma 👩‍💻
+Sóc directora de projectes web i especialista en continguts optimitzats. Vinc del món del *project management* en màrqueting digital i actualment estic ampliant les meves habilitats aprenent *front-end development*. 
 
-<!--
-**gemmaadev/gemmaadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experiència
+- 📌 Direcció de projectes web  
+- ✍️ Creació i optimització de continguts web  
+- 📈 Estratègia SEO i gestió de continguts  
+- 💡 Coordinació d’equips i processos àgils  
+- 🚀 Project management en màrqueting digital i comunicació 
 
-Here are some ideas to get you started:
+ ## Contacte
+- 🌐 LinkedIn https://www.linkedin.com/in/gemmamaesosole/
+- 📧 gemma.dev@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aquí trobaràs alguns projectes i exercicis que estic desenvolupant per començar a adquirir coneixements en front-end.
