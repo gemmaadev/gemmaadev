@@ -10,6 +10,6 @@ Sóc directora de projectes web i especialista en continguts optimitzats. Vinc d
 
  ## Contacte
 - 🌐 LinkedIn https://www.linkedin.com/in/gemmamaesosole/
-- 📧 gemma.dev@gmail.com
+- 📧 gemmaa.dev@gmail.com
 
 Aquí trobaràs alguns projectes i exercicis que estic desenvolupant per començar a adquirir coneixements en front-end.
