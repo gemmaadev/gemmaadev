@@ -1,14 +1,8 @@
 <div align="center">
 
-# Hi there! I'm Gemma Maeso
+# Hi, I'm Gemma Maeso!
 
-### Frontend Developer | Barcelona - Lleida
-
-After several years working in **web project management**, I decided to move to the technical side and start building the products I used to coordinate.
-
-I'm currently focused on **Frontend Development**, learning every day through projects while improving my skills in **React**, **TypeScript** and the modern JavaScript ecosystem.
-
-I enjoy creating clean, responsive and accessible user interfaces, writing maintainable code and understanding not only *how* things work, but *why* they work.
+### Frontend Developer | Barcelona 
 
 <br>
 
@@ -26,10 +20,11 @@ I enjoy creating clean, responsive and accessible user interfaces, writing maint
 
 # About me
 
-- Currently learning **React**, **TypeScript** and modern frontend architecture.
-- Passionate about building intuitive and responsive user interfaces.
-- My background in project management helps me keep an organized and user-focused mindset.
-- Always learning through personal projects and new challenges.
+After several years working in **web project management**, I decided to move to the technical side and start building the products I used to coordinate.
+
+I'm currently focused on **Frontend Development**, learning every day through projects while improving my skills in **React**, **TypeScript** and the modern JavaScript ecosystem.
+
+I enjoy creating clean, responsive and accessible user interfaces, writing maintainable code and understanding not only *how* things work, but *why* they work.
 
 ---
 
