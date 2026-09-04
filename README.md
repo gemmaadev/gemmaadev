@@ -32,7 +32,11 @@ I enjoy creating clean, responsive and accessible user interfaces, writing maint
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,express,prisma,postgres,supabase,git,github,vscode" />
 
 </p>
 
