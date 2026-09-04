@@ -42,15 +42,9 @@ I enjoy creating clean, responsive and accessible user interfaces, writing maint
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gemmaadev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=gemmaadev&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gemmaadev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gemmaadev&theme=tokyo-night"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gemmaadev&theme=tokyonight"/>
 
 </p>
 
